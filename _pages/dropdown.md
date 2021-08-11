@@ -4,9 +4,9 @@ title: submenus
 nav: true
 dropdown: true
 children: 
-    - title: publications
+    - title: publications1
       permalink: /publications/
     - title: divider
-    - title: projects
+    - title: projects2
       permalink: /projects/
 ---
