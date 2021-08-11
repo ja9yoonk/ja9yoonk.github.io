@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="jinhe.xjtu.edu.cn">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: main.jpg
   address: >
     <p>823 Management Bldg.,</p>
     <p>Xian'ning West Rd.28,</p>
