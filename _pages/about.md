@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="jinhe.xjtu.edu.cn">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="http://jinhe.xjtu.edu.cn">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: left
@@ -10,8 +10,8 @@ profile:
   address: >
     <p>823 Management Bldg.,</p>
     <p>Xian'ning West Rd.28,</p>
-    <p>Xi'an, Shaanxi Province, 710049</p>
-    <p>P.R.China</p>
+    <p>Xi'an, Shaanxi Province,</p>
+    <p>710049, P.R.China</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
